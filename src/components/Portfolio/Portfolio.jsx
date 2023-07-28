@@ -12,43 +12,43 @@ const data = [
   {
     id:1,
     image : IMG1,
-    title : 'Lorem ipsum dolor sit amet consectetur.',
+    title : 'Site web proposant deux jeux(en cours de réalisation avec react js).',
     github:'https://github.com/MarlyJAM/Dekasi.git',
     demo : 'https://github.com'
   },
   {
     id:2,
     image : IMG2,
-    title : 'Lorem ipsum dolor sit amet consectetur.',
+    title : 'Jeu de survie en 2d (en cours de réalisation avec python).',
     github:'https://github.com/MarlyJAM/JEU-PYTHON.git',
     demo : 'https://github.com'
   },
   {
     id:3,
     image : IMG3,
-    title : 'Lorem ipsum dolor sit amet consectetur.',
+    title : "Site composé d'un forum et d'un blog (en cours d'amélioration avec symfony).",
     github:'https://github.com/MarlyJAM/APPBTS.git',
     demo : 'https://github.com'
   },
   {
     id:4,
     image : IMG4,
-    title : 'Lorem ipsum dolor sit amet consectetur.',
+    title : "Générateur de mot de passe (en cours d'amélioration avec python).",
     github:'https://github.com/MarlyJAM/motdepasse-python/blob/master/password_generating.py',
     demo : 'https://github.com'
   },
   {
     id:5,
     image : IMG5,
-    title : 'Lorem ipsum dolor sit amet consectetur.',
+    title : 'Maquette pour une application de gestion de stock (réalisée avec figma).',
     github:'https://www.figma.com/file/Ss9xiCUWo6oWRV0pVZ8SIZ/APPMOBILE?type=design&node-id=0%3A1&mode=design&t=jBAV7EpOx9uc0SGs-1',
     demo : 'https://www.figma.com/proto/Ss9xiCUWo6oWRV0pVZ8SIZ/APPMOBILE?type=design&node-id=2-164&t=KX6hM4f1SrXYC0Ae-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A164&mode=design'
   },
   {
     id:6,
     image : IMG6,
-    title : 'Lorem ipsum dolor sit amet consectetur.',
-    github:'https://github.com',
+    title : "Portfolio personnel (en cours d'amélioration avec react js).",
+    github:'https://github.com/MarlyJAM/Portfolio.git',
     demo : 'https://github.com'
   }
 ];
