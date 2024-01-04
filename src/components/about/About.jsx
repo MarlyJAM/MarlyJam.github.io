@@ -37,7 +37,7 @@ const About = () => {
             </article>
           </div>
           <p> Salut, je suis Marguerite, j'aime bien lire et aussi imaginer .
-             Actuellement, je suis à la recherche d'une alternance donc ne pas hésiter
+             Actuellement, je suis à la recherche d'un stage de 6 mois donc ne pas hésiter
              à me contacter, vous trouverez plus bas mes compétences et coordonnées. 
              Sur ce je vous souhaite une bonne journée . Bon appétit !
           </p>
