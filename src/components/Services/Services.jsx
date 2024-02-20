@@ -77,7 +77,7 @@ const Services = () => {
           </li>
           <li>
             <GiCheckMark className='service__list-icon'/>
-            <p>Réalisation d'application desktop avec Android</p>
+            <p>Réalisation d'application mobile avec Android</p>
           </li>
           <li>
             <GiCheckMark className='service__list-icon'/>
