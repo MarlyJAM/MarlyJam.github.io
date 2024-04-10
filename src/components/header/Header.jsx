@@ -10,9 +10,9 @@ const Header = () => {
       <div className="container header_container">
         <h5>Salut , je suis</h5>
         <h1>MASSINGA LOEMBE Marguerite Helène</h1>
-        <h5 className="text-light">étudiante en 2ème année BUT GEII option Electronique et Systèmes Embarqués</h5>
-        <h5 className="text-light">recherche stage pour une durée de 2 mois </h5>
-        <h5 className="text-light">Temps plein</h5>
+        <h5 className="text-light"> Recherche contrat d'apprentissage Ingénieur Electronique Informatique</h5>
+        <h5 className="text-light">de 3 ans Polytech Sorbonne</h5>
+        <h5 className="text-light">1 semaine en entreprise / 1 semaine en école</h5>
         <CTA/>
         <HeaderSocials/>
         <div className="me">

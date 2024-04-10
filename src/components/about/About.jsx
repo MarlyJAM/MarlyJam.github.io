@@ -28,7 +28,7 @@ const About = () => {
             <article className="about__card">
               <FiUsers className='about__icon'/>
               <h5>Stages</h5>
-              <small>+2 </small>
+              <small>+3 </small>
             </article>
             <article className="about__card">
               <BsFolder2Open className='about__icon'/>
@@ -36,10 +36,13 @@ const About = () => {
               <small>+20 Réalisés</small>
             </article>
           </div>
-          <p> Salut, je suis Marguerite, j'aime bien lire et aussi imaginer .
-             Actuellement, je suis à la recherche d'un stage de 2 mois donc ne pas hésiter
-             à me contacter, vous trouverez plus bas mes compétences et coordonnées. 
-             Sur ce je vous souhaite une bonne journée . Bon appétit !
+          <p> Salut, je suis Marguerite .
+            Pourquoi étudier en apprentissage ?
+            Tout simplement parceque c'est une opportunité d'acquérir de l'expérience professionnelle
+            en apprenant.
+            Pourquoi moi ?
+            Je suis passionnée par ce que je fais et je m'investie toujours à 100% . 
+            Je sais m'adapter et que ce soit en autonomie ou en équipe j'accomplie toujours mes tâches.
           </p>
           <a href='#contact' className='btn btn-primary'>Discutons</a>
 
